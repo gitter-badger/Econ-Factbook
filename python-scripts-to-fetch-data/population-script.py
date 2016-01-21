@@ -1,22 +1,20 @@
-from BeautifulSoup import BeautifulSoup
-import urllib2
-import codecs
+# Script to fetch data from http://data.worldbank.org/indicator/SP.POP.TOTL
 
-response = urllib2.urlopen('http://data.worldbank.org/indicator/SP.POP.TOTL')
-html = response.read()
-soup = BeautifulSoup(html)
+import lxml.html as LH
+import requests
 
-tabulka = soup.find("table", {"class" : "detail-char"})
+def text(elt):
+    return elt.text_content().replace(u'\xa0', u' ')
 
-population = [] # stores all information in this list
-for row in tabulka.findAll('tr'):
-    col = row.findAll('td')
-    prvy = col[0].string.strip()
-    druhy = col[1].string.strip()
-    population = '%s;%s' % (prvy, druhy)
-    records.append(population)
+url = "http://data.worldbank.org/indicator/SP.POP.TOTL"
+r = requests.get(url)
+root = LH.fromstring(r.content)
 
-fl = codecs.open('output.txt', 'wb', 'utf8')
-line = ';'.join(records)
-fl.write(line + u'\r\n')
-fl.close()
+for table in root.xpath('//table[@id="sortabletable"]'):
+    header = [text(th) for th in table.xpath('//th')]        # 1
+    data = [[text(td) for td in tr.xpath('td')]
+            for tr in table.xpath('//tr')]                   # 2
+    data = [row for row in data if len(row)==len(header)]    # 3
+    data = pd.DataFrame(data, columns=header)                # 4
+
+    print data
