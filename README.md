@@ -1,7 +1,7 @@
 ## Econ Factbook
 
 This is the official of the project Econ Factbook, created by
-[Alex Peek](https://github.com/orgs/okfn-oe/people/mcnabber091), which is a visual representation of the many datasets that soon will be published online.
+[Alex Peek](https://github.com/mcnabber091), which is a visual representation of the many datasets that soon will be published online.
 
 ## Contributing
 
