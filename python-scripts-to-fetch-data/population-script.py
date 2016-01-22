@@ -10,17 +10,23 @@ url = "http://data.worldbank.org/indicator/SP.POP.TOTL"
 r = requests.get(url)
 root = LH.fromstring(r.content)
 
+# Define the working directory and remove the # from line 14 and 15
+#import os
+#path = os.chdir("")
+
 #open a file which we will save the data to
-f = open('pop_data.txt','w')
+f = open('POPULATION-world_data.csv','w')
+
+
 
 # The table didn't seem to have the id you were searching for,
 # I've selected it by its class
 for table in root.xpath('//table[@class="views-table sticky-enabled cols-7"]'):
 
-#loop through the rows    
+#loop through the rows
     for row in table.xpath('//tr'):
         #write the contents of the header cells separated by a tab
-        for header in row.findall('th'):     
+        for header in row.findall('th'):
             f.write(text(header) + '\t')
 
         #write the contents of the normal cells as above
@@ -30,5 +36,5 @@ for table in root.xpath('//table[@class="views-table sticky-enabled cols-7"]'):
         #write a new line
         f.write('\n')
 
-#close the file    
+#close the file
 f.close()
