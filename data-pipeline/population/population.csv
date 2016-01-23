@@ -1,0 +1,249 @@
+country_code,country_name,population,date
+1A,Arab World,385272539,2014
+S3,Caribbean small states,7013555,2014
+B8,Central Europe and the Baltics,103455133,2014
+Z4,East Asia & Pacific (all income levels),2264079901,2014
+4E,East Asia & Pacific (developing only),2020657137,2014
+XC,Euro area,338733933,2014
+Z7,Europe & Central Asia (all income levels),903110622,2014
+7E,Europe & Central Asia (developing only),264350728,2014
+EU,European Union,508314519,2014
+F1,Fragile and conflict affected situations,472954698,2014
+XE,Heavily indebted poor countries (HIPC),701714118,2014
+XD,High income,1398793049,2014
+XR,High income: nonOECD,328766682,2014
+XS,High income: OECD,1070026367,2014
+ZJ,Latin America & Caribbean (all income levels),626270167,2014
+XJ,Latin America & Caribbean (developing only),525173404,2014
+XL,Least developed countries: UN classification,931955068,2014
+XO,Low & middle income,5861917628,2014
+XM,Low income,621977594,2014
+XN,Lower middle income,2879112201,2014
+ZQ,Middle East & North Africa (all income levels),417451428,2014
+XQ,Middle East & North Africa (developing only),357312867,2014
+XP,Middle income,5239940034,2014
+XU,North America,354462656,2014
+XY,Not classified,,2014
+OE,OECD members,1271344548,2014
+S4,Other small states,20937164,2014
+S2,Pacific island small states,2313337,2014
+S1,Small states,30264056,2014
+8S,South Asia,1721020580,2014
+ZG,Sub-Saharan Africa (all income levels),974315323,2014
+ZF,Sub-Saharan Africa (developing only),973402912,2014
+XT,Upper middle income,2360827833,2014
+1W,World,7260710677,2014
+AF,Afghanistan,31627506,2014
+AL,Albania,2894475,2014
+DZ,Algeria,38934334,2014
+AS,American Samoa,55434,2014
+AD,Andorra,72786,2014
+AO,Angola,24227524,2014
+AG,Antigua and Barbuda,90900,2014
+AR,Argentina,42980026,2014
+AM,Armenia,3006154,2014
+AW,Aruba,103441,2014
+AU,Australia,23490736,2014
+AT,Austria,8534492,2014
+AZ,Azerbaijan,9537823,2014
+BS,"Bahamas, The",383054,2014
+BH,Bahrain,1361930,2014
+BD,Bangladesh,159077513,2014
+BB,Barbados,283380,2014
+BY,Belarus,9470000,2014
+BE,Belgium,11225207,2014
+BZ,Belize,351706,2014
+BJ,Benin,10598482,2014
+BM,Bermuda,65181,2014
+BT,Bhutan,765008,2014
+BO,Bolivia,10561887,2014
+BA,Bosnia and Herzegovina,3817554,2014
+BW,Botswana,2219937,2014
+BR,Brazil,206077898,2014
+BN,Brunei Darussalam,417394,2014
+BG,Bulgaria,7223938,2014
+BF,Burkina Faso,17589198,2014
+BI,Burundi,10816860,2014
+CV,Cabo Verde,513906,2014
+KH,Cambodia,15328136,2014
+CM,Cameroon,22773014,2014
+CA,Canada,35540419,2014
+KY,Cayman Islands,59172,2014
+CF,Central African Republic,4804316,2014
+TD,Chad,13587053,2014
+JG,Channel Islands,162917,2014
+CL,Chile,17762647,2014
+CN,China,1364270000,2014
+CO,Colombia,47791393,2014
+KM,Comoros,769991,2014
+CD,"Congo, Dem. Rep.",74877030,2014
+CG,"Congo, Rep.",4504962,2014
+CR,Costa Rica,4757606,2014
+CI,Cote d'Ivoire,22157107,2014
+HR,Croatia,4238389,2014
+CU,Cuba,11379111,2014
+CW,Curacao,155872,2014
+CY,Cyprus,1153658,2014
+CZ,Czech Republic,10510566,2014
+DK,Denmark,5639565,2014
+DJ,Djibouti,876174,2014
+DM,Dominica,72341,2014
+DO,Dominican Republic,10405943,2014
+EC,Ecuador,15902916,2014
+EG,"Egypt, Arab Rep.",89579670,2014
+SV,El Salvador,6107706,2014
+GQ,Equatorial Guinea,820885,2014
+ER,Eritrea,5110444,2014
+EE,Estonia,1313645,2014
+ET,Ethiopia,96958732,2014
+FO,Faeroe Islands,48221,2014
+FJ,Fiji,886450,2014
+FI,Finland,5463596,2014
+FR,France,66206930,2014
+PF,French Polynesia,279781,2014
+GA,Gabon,1687673,2014
+GM,"Gambia, The",1928201,2014
+GE,Georgia,4504100,2014
+DE,Germany,80889505,2014
+GH,Ghana,26786598,2014
+GR,Greece,10957740,2014
+GL,Greenland,56295,2014
+GD,Grenada,106349,2014
+GU,Guam,167543,2014
+GT,Guatemala,16015494,2014
+GN,Guinea,12275527,2014
+GW,Guinea-Bissau,1800513,2014
+GY,Guyana,763893,2014
+HT,Haiti,10572029,2014
+HN,Honduras,7961680,2014
+HK,"Hong Kong SAR, China",7241700,2014
+HU,Hungary,9861673,2014
+IS,Iceland,327589,2014
+IN,India,1295291543,2014
+ID,Indonesia,254454778,2014
+IR,"Iran, Islamic Rep.",78143644,2014
+IQ,Iraq,34812326,2014
+IE,Ireland,4612719,2014
+IM,Isle of Man,87127,2014
+IL,Israel,8215300,2014
+IT,Italy,61336387,2014
+JM,Jamaica,2721252,2014
+JP,Japan,127131800,2014
+JO,Jordan,6607000,2014
+KZ,Kazakhstan,17289111,2014
+KE,Kenya,44863583,2014
+KI,Kiribati,110470,2014
+KP,"Korea, Dem. Rep.",25026772,2014
+KR,"Korea, Rep.",50423955,2014
+XK,Kosovo,1823149,2014
+KW,Kuwait,3753121,2014
+KG,Kyrgyz Republic,5834200,2014
+LA,Lao PDR,6689300,2014
+LV,Latvia,1990351,2014
+LB,Lebanon,4546774,2014
+LS,Lesotho,2109197,2014
+LR,Liberia,4396554,2014
+LY,Libya,6258984,2014
+LI,Liechtenstein,37286,2014
+LT,Lithuania,2929323,2014
+LU,Luxembourg,556074,2014
+MO,"Macao SAR, China",577914,2014
+MK,"Macedonia, FYR",2075625,2014
+MG,Madagascar,23571713,2014
+MW,Malawi,16695253,2014
+MY,Malaysia,29901997,2014
+MV,Maldives,401000,2014
+ML,Mali,17086022,2014
+MT,Malta,427404,2014
+MH,Marshall Islands,52898,2014
+MR,Mauritania,3969625,2014
+MU,Mauritius,1260934,2014
+MX,Mexico,125385833,2014
+FM,"Micronesia, Fed. Sts.",104044,2014
+MD,Moldova,3556400,2014
+MC,Monaco,37623,2014
+MN,Mongolia,2909871,2014
+ME,Montenegro,621800,2014
+MA,Morocco,33921203,2014
+MZ,Mozambique,27216276,2014
+MM,Myanmar,53437159,2014
+NA,Namibia,2402858,2014
+NP,Nepal,28174724,2014
+NL,Netherlands,16854183,2014
+NC,New Caledonia,266000,2014
+NZ,New Zealand,4509700,2014
+NI,Nicaragua,6013913,2014
+NE,Niger,19113728,2014
+NG,Nigeria,177475986,2014
+MP,Northern Mariana Islands,54541,2014
+NO,Norway,5136475,2014
+OM,Oman,4236057,2014
+PK,Pakistan,185044286,2014
+PW,Palau,21097,2014
+PA,Panama,3867535,2014
+PG,Papua New Guinea,7463577,2014
+PY,Paraguay,6552518,2014
+PE,Peru,30973148,2014
+PH,Philippines,99138690,2014
+PL,Poland,37995529,2014
+PT,Portugal,10397393,2014
+PR,Puerto Rico,3548397,2014
+QA,Qatar,2172065,2014
+RO,Romania,19910995,2014
+RU,Russian Federation,143819569,2014
+RW,Rwanda,11341544,2014
+WS,Samoa,191845,2014
+SM,San Marino,31595,2014
+ST,Sao Tome and Principe,186342,2014
+SA,Saudi Arabia,30886545,2014
+SN,Senegal,14672557,2014
+RS,Serbia,7129428,2014
+SC,Seychelles,91526,2014
+SL,Sierra Leone,6315627,2014
+SG,Singapore,5469700,2014
+SX,Sint Maarten (Dutch part),37664,2014
+SK,Slovak Republic,5418506,2014
+SI,Slovenia,2062218,2014
+SB,Solomon Islands,572171,2014
+SO,Somalia,10517569,2014
+ZA,South Africa,54001953,2014
+SS,South Sudan,11911184,2014
+ES,Spain,46404602,2014
+LK,Sri Lanka,20639000,2014
+KN,St. Kitts and Nevis,54944,2014
+LC,St. Lucia,183645,2014
+MF,St. Martin (French part),31530,2014
+VC,St. Vincent and the Grenadines,109360,2014
+SD,Sudan,39350274,2014
+SR,Suriname,538248,2014
+SZ,Swaziland,1269112,2014
+SE,Sweden,9689555,2014
+CH,Switzerland,8190229,2014
+SY,Syrian Arab Republic,22157800,2014
+TJ,Tajikistan,8295840,2014
+TZ,Tanzania,51822621,2014
+TH,Thailand,67725979,2014
+TL,Timor-Leste,1212107,2014
+TG,Togo,7115163,2014
+TO,Tonga,105586,2014
+TT,Trinidad and Tobago,1354483,2014
+TN,Tunisia,10996600,2014
+TR,Turkey,75932348,2014
+TM,Turkmenistan,5307188,2014
+TC,Turks and Caicos Islands,33740,2014
+TV,Tuvalu,9893,2014
+UG,Uganda,37782971,2014
+UA,Ukraine,45362900,2014
+AE,United Arab Emirates,9086139,2014
+GB,United Kingdom,64510376,2014
+US,United States,318857056,2014
+UY,Uruguay,3419516,2014
+UZ,Uzbekistan,30757700,2014
+VU,Vanuatu,258883,2014
+VE,"Venezuela, RB",30693827,2014
+VN,Vietnam,90730000,2014
+VI,Virgin Islands (U.S.),104170,2014
+PS,West Bank and Gaza,4294682,2014
+YE,"Yemen, Rep.",26183676,2014
+ZM,Zambia,15721343,2014
+ZW,Zimbabwe,15245855,2014
