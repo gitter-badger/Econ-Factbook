@@ -1,7 +1,10 @@
 GENERATED_FILES = population.csv
-.PHONY: all
+.PHONY: all clean
 
 all: $(GENERATED_FILES)
+
+clean:
+	rm -rf data/*
 
 .INTERMEDIATE: pop.json
 pop.json:
@@ -12,4 +15,4 @@ population.json: pop.json
 	cat $< | jq '[.[1] | .[] | { country_code: .country.id, country_name: .country.value, population: .value, date: .date }]' > $@
 
 population.csv: population.json
-	in2csv $< > $@
+	in2csv $< > data/$(notdir $@)
