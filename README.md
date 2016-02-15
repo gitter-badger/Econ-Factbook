@@ -1,5 +1,7 @@
 ## Econ Factbook
 
+[![Join the chat at https://gitter.im/okfn-oe/Econ-Factbook](https://badges.gitter.im/okfn-oe/Econ-Factbook.svg)](https://gitter.im/okfn-oe/Econ-Factbook?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is the official of the project Econ Factbook, created by
 [Alex Peek](https://github.com/mcnabber091), which is a visual representation of the many datasets that soon will be published online.
 
